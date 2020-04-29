@@ -1,0 +1,14 @@
+Declare OpMode Members (motors, servos, sensors, any other mechanisms)
+Configure OpMode Members (label the hardware map using the same configuration in DriverCode
+FOR RED RIGHT
+    move forward for 100 encoder counts at max speed
+    move right for 50 encoder counts at max speed
+FOR RED LEFT
+    move forward for 100 encoder counts at max speed
+    move left for 50 encoder counts at max speed
+FOR BLUE RIGHT
+    move forward for 100 encoder counts at max speed
+    move right for 50 encoder counts at max speed
+FOR BLUE LEFT
+    move forward for 100 encoder counts at max speed
+    move left for 50 encoder counts at max speed
